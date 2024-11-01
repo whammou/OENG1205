@@ -75,7 +75,7 @@ Through `documentation` allows the finished product to be manufactured to the re
 
 <details>
   <summary>Example</summary>
-  <IMG src="./assets/example01.png" alt="sketch to 3d models" width=80%/>
+  <IMG src="./assets/w1-technical_drawing/example01.png" alt="sketch to 3d models" width=80%/>
 </details>
 
 
@@ -110,7 +110,7 @@ Technical drawing is made up of **Graphic Communication** which included these e
 
 
 <p align="center">
-  <IMG src="./assets/example11.png" alt="freehand technical drawing" width=80%/>
+  <IMG src="./assets/w1-technical_drawing/example11.png" alt="freehand technical drawing" width=80%/>
 </p>
 
 
@@ -120,7 +120,55 @@ Technical drawing is made up of **Graphic Communication** which included these e
 To communicate technical information about the design, 2 archetypes of sketches are used. They are **Multiview sketches** and **Pictorial Sketches**
 
 
-#### 2.3.1 Multiview
+#### 2.3.1 Multiview sketches
+
+
+`Multiview sketches` present the object in a **series of projections**, each one **showing only two of the object's three dimensions**
+
+
+<p align="center">
+  <IMG src="./assets/w1-technical_drawing/example12.png" alt="multiview" width=80%/>
+</p>
+
+
+#### 2.3.2 Pictorial sketches
+
+
+Pictorial sketches present the objects in **single pictorial view**, with all **three dimensions represented**
+
+There are 3 main types of pictorial sketch:
+  - Axonometric (isometric)
+  - Oblique
+  - Prespective
+
+
+<p align="center">
+  <IMG src="./assets/w1-technical_drawing/example13.png" alt="pictorial" width=80%/>
+</p>
+
+
+#### 2.3.3 Drawing projections
+
+*The difference between 4 types of projections is illustrated below*
+
+
+<p align="center">
+  <IMG src="./assets/w1-technical_drawing/example14.png" alt="drawing projections" width=80%/>
+</p>
+
+
+## 3. Computer Aided Design (CAD)
+
+
+During the 1980s and 1990s, `Computer Aided Design` rapidly became a technology to take seriously
+
+`CAD` is the process of **using a computer with CAD software** for design and drafting applications
+
+> [!NOTE]
+> CAD offers solutions to most engineering drawing and design problems, and it allows for increasingly **complex projects**
+
+- **SolidWorks**:
+  - Software especially designed got `CAD` in the manufacturing industry is sometimes referred to as **Mechanical Computer Aided Design (MCAD)**
 
 
 
