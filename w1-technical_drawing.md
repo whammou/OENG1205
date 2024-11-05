@@ -85,7 +85,7 @@ Through `documentation` allows the finished product to be manufactured to the re
 Technical drawing is a drawing that visually expresses how something *function* and is to be *constructed*
 
 Technical drawing is made up of **Graphic Communication** which included these elements:
-  -  Symbols
+  - Symbols
   - Images
 
 - **Sketching**
